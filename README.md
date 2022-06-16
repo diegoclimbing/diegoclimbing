@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 I have a degree in physics.
+
 I have worked with calculation engines for energy band structures of crystalline systems.
+
 I had experience as an analyst in the seismological service.
+
 I develop IoT projects using esp8266, arduinos and the implementation of my own circuits.
 
 ## About what's on my mind
