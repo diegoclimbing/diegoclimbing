@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**diegoclimbing/diegoclimbing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a degree in physics.
+I have worked with calculation engines for energy band structures of crystalline systems.
+I had experience as an analyst in the seismological service.
+I develop IoT projects using esp8266, arduinos and the implementation of my own circuits.
 
-Here are some ideas to get you started:
+## About what's on my mind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - The AI, neural networks and machine learning are a new branch of my interests.
+ - Perform open source AI retrains for new applications.
+ - Detector simulation using Geant4.
+ - Automation of industrial processes.
+
+## Talking with me
+
+- [@diegoclimbing](https://www.instagram.com/diegoclimbing/)
+- 💬 diegoclimbing@gmail.com
+
+---
+
+Learn more about me on [the About page of my blog](https://diegoclimbing.wordpress.com/)
